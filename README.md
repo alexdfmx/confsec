@@ -122,6 +122,8 @@ _Not exhaustive! I won't really be maintaining this list_
 | [Hackfest](https://hackfest.ca) | Quebec, Canada | September 30 | November 3-4 |
 | [AVAR](http://aavar.org) | Beijing, China | September 30 | December 6-8 |
 | [Kiwicon](https://www.kiwicon.org/) | Wellington, New Zealand | October 14 | November 17-18 |
+| [NocONName](https://www.noconname.org/) | Barcelona, Spain | ? | November 24-25 |
+
 
 
 
